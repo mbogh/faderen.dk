@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://mbogh.github.io/faderen/sitemap.xml 
+Sitemap: http://faderen.dk/sitemap.xml 
